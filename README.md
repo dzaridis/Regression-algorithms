@@ -7,3 +7,8 @@
 • SVR  
 • Decision Trees  
 • ExtraTreeRegressor  
+
+#Use  
+ML-algorithms folder contains each of the above mentioned algorithms  
+Typing help(function) the arguments and the output of each function is presented  
+Have the ML-algorithms folder inside your workspace and import ML-algorithms  
